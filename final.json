@@ -1,0 +1,58 @@
+{
+  "merkleRoot": "0x6c4f7c393f1c0a0d88cd772af156ba03cf81d0ec5a79e94abe47b74ea69d7d00",
+  "tokenTotal": "0x01e7e4171bf4d3a00000",
+  "claims": {
+    "0x1Eb8b7219a62Dd43ca29E11b9708092F3c7F8215": {
+      "index": 0,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0x57bc52b96eb17b93991229829f419e043d7cabf6ee3a433809cec8df21f6b86b",
+        "0x141cb0a07f5411bf1fb8985bf3d24940e125c84fc32c7fdfc583e5231be5cbbf",
+        "0xc32bdc3da664399801121fd1499f6b74d64e3f097c1ac69b4463518d7f758208"
+      ]
+    },
+    "0x3C10Eb7dB40FD8617F6DAC6EDb5aF91a5F7AFA58": {
+      "index": 1,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0xfbbe722780c419bcc893cc7948047e0fa8d28f83ca1c98610c5c197f7682eba1",
+        "0x19236ca067f58d755dc17f5ef6980e0405a254bb63fcce1ee9fd600b52ece923"
+      ]
+    },
+    "0x4351ce51797F1164107687f7d1B8936bB653f595": {
+      "index": 2,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0x148b3d0b9645307d9dd4c5a93f2462902118c0a265a6c30af5ca500c549e69fc",
+        "0x4e6617ec6178cc9a517d230ae4d6e30c3ae8e5a79831543e351c970696a24a9a",
+        "0xc32bdc3da664399801121fd1499f6b74d64e3f097c1ac69b4463518d7f758208"
+      ]
+    },
+    "0x586fd0a4791d1e15DbE55ef21254bE0A37723971": {
+      "index": 3,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0xec71ac3d303e68b99fe28cd871f7831cfbaa258ece1fdffd21903f97ca9f9631",
+        "0x19236ca067f58d755dc17f5ef6980e0405a254bb63fcce1ee9fd600b52ece923"
+      ]
+    },
+    "0x9E5536Fa67dD68b1759c9d2AAe6B38BA08Da318F": {
+      "index": 4,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0xd175d9a049a875b0ce4cfb568d429fbd6752aa233049025a6c2d6b56afe668e9",
+        "0x141cb0a07f5411bf1fb8985bf3d24940e125c84fc32c7fdfc583e5231be5cbbf",
+        "0xc32bdc3da664399801121fd1499f6b74d64e3f097c1ac69b4463518d7f758208"
+      ]
+    },
+    "0xF21735be770a9158e6Ca477FFC7461BfBB4BE901": {
+      "index": 5,
+      "amount": "0x5150ae84a8cdf00000",
+      "proof": [
+        "0x01528b9ed177641bfb1b7a9176d89d0c275257e735104db3fb5966b7f4dbbf98",
+        "0x4e6617ec6178cc9a517d230ae4d6e30c3ae8e5a79831543e351c970696a24a9a",
+        "0xc32bdc3da664399801121fd1499f6b74d64e3f097c1ac69b4463518d7f758208"
+      ]
+    }
+  }
+}

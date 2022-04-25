@@ -21,6 +21,8 @@
     "node": ">=10"
   },
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
     "@openzeppelin/contracts": "3.1.0",
     "@types/chai": "^4.2.6",
     "@types/mocha": "^5.2.7",
@@ -29,6 +31,8 @@
     "commander": "^6.1.0",
     "ethereum-waffle": "^3.0.0",
     "ethereumjs-util": "^7.0.4",
+    "ethers": "^5.6.4",
+    "hardhat": "^2.9.3",
     "mocha": "^6.2.2",
     "prettier": "^2.0.5",
     "rimraf": "^3.0.0",
@@ -44,5 +48,8 @@
     "generate-merkle-root": "ts-node scripts/generate-merkle-root.ts",
     "generate-merkle-root:example": "ts-node scripts/generate-merkle-root.ts --input scripts/example.json",
     "prepublishOnly": "yarn test"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
   }
 }
